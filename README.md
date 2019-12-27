@@ -1,0 +1,2 @@
+# safelink
+script for safelink
